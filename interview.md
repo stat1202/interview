@@ -687,12 +687,6 @@
     
     네트워크를 통해 접근할 수 있는 가상화된 서버와 서버에서 작동하는 프로그램과 데이터베이스를 제공하는 IT 환경
     
-- NFC MST
-    
-    Near Field Communication 근거리 무선통신
-    
-    Magnetic Secure Transmission 마그네틱 보안 전송
-    
 - 렌더링 과정
     1. 브라우저가 서버에 필요한 리소스 요청
     2. HTML 코드로 DOM 트리 생성, CSSOM 트리 생성
